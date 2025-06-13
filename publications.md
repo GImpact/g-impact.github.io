@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Publications
+title: G-Impact Publications
 ---
 
 
 # Publications
-
-G-Impact Publications:
 
 Yun, H., S. Ahn, J. Oh, C. Kang, A. Kim, D. Kwon, S. Ahn, J. Park, J. Park, E. Kim, H. Kim, and W. Lee*, 2024: Short-term exposure to outdoor nitrogen dioxide and respiratory mortality, with high-risk populations: a nationwide time-stratified case-crossover study. BMC Public Health, 24:3484, https://doi.org/10.1186/s12889-024-21048-w.
 
