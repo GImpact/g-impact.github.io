@@ -33,7 +33,7 @@ Research Center for Climate Sciences (RCCS), Pusan National University (PNU)
 
 <img src="images/jeongeun-yun.jpg" alt="Jeongeun Yun" width="200" />
 
-*Postdoctoral Fellow*
+*Postdoctoral Fellow*<br>
 Research Center for Cliamte Sciences (RCCS), Pusan National University (PNU)
 <a href="{{ site.baseurl }}/team/Jeongeun Yun/" style="font-size: 0.75rem;">Read more</a>
 
