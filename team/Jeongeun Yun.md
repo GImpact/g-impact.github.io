@@ -18,7 +18,7 @@ permalink: /team/jeongeun-yun/
 
 ## Research Interests
 
-My current research focuses on understanding the seasonal to multi-year predictability of climate extremes, particularly marine and terrestrial heatwaves. I am also interested in the potential impacts of extreme heat on human health. Another key aspect of my work involves studying the dynamics and future changes in extratropical cyclones, as well as wind and precipitation extremes, with plans to include state-of-the-art climate models and AI in future studies.
+My current research focuses on understanding the impacts of ocean-atmosphere teleconnections on the multi-year predictability of terrestrial variables such as primary productivity, burned area, and soil carbon content. I am also interested in the effects of climate and environmental changes on carbon cycling from a biogeochemical perspective, as well as microbial activities and communities. In future studies, I plan to incorporate and develop biogeochemical and microbial dynamics within state-of-the-art Earth system models.
 
 ## Selected Publications
 
