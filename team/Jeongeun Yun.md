@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/6fe7193b-836a-4b2c-a56b-2586ecbf8f5e)---
+---
 layout: page
 title: Jeongeun Yun
-permalink: /team/jeongeun-yun/
+permalink: /team/Jeongeun Yun/
 ---
 
 # Jeongeun Yun
