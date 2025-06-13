@@ -29,6 +29,14 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
 Research Center for Climate Sciences (RCCS), Pusan National University (PNU)
 <a href="{{ site.baseurl }}/team/alexia-karwat/" style="font-size: 0.75rem;">Read more</a>
 
+**Jeongeun Yun**
+
+<img src="images/jeongeun-yun.jpg" alt="Jeongeun Yun" width="200" />
+
+*Postdoctoral Fellow*
+Research Center for Cliamte Sciences (RCCS), Pusan National University (PNU)
+<a href="{{ site.baseurl }}/team/Jeongeun Yun/" style="font-size: 0.75rem;">Read more</a>
+
 ---
 
 ### Students
