@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/g-impact.github.io/team/Jeongeun%20Yun/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/g-impact.github.io/team/jiwoo-park/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/g-impact.github.io/team/seoyeong-ahn/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/g-impact.github.io/team/yejin-kim/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/g-impact.github.io/team/YongYub%20Kim/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/g-impact.github.io/about.html</loc>
 </url>
 <url>
@@ -8,6 +23,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/g-impact.github.io/team/arya-vazhaparambilsasi/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/g-impact.github.io/team/beomhee-jo/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/g-impact.github.io/team/christian-franzke/</loc>

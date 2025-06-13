@@ -92,3 +92,117 @@
     background-color: rgba(255, 255, 255, 0.15);
   }
   
+  .profiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .profile-card {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px #0003;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .profile-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .profile-card h3 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .profile-card p {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  .profile-card .read-more {
+    display: inline-block;
+    padding: 6px 12px;
+    background: #007bff;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background 0.3s ease;
+  }
+  
+  .profile-card .read-more:hover {
+    background: #0056b3;
+  }
+  
+  .profile-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px #0004;
+  }
+
+  .projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem 0;
+  }
+  
+  .project-item {
+    width: 250px;
+    height: 180px;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .project-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 4px 4px 12px rgba(0,0,0,0.3);
+  }
+  
+  .multiyear {
+    background-image: url('/images/multiyear.jpg'); 
+    background-color: #003366;
+  }
+  
+  .subseasonal {
+    background-image: url('/images/subseasonal.jpg'); 
+    background-color: #004d00;
+  }
+  
+  .future {
+    background-image: url('/images/future.jpg'); 
+    background-color: #994d00;
+  }
+  
+  .health {
+    background-image: url('{{ site.baseurl }}/images/health-impacts.jpg'); 
+    background-color: #660066;
+  }
+  
+  .project-item h3 {
+    margin: 0;
+    background:rgba(0, 0, 0, 0.5);
+    padding: 0.5rem;
+    border-radius: 6px;
+  }
+  
+  

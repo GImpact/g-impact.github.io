@@ -10,6 +10,16 @@ We explore...
 
 ---
 
+## Extreme Events and their Socio-Economic Impacts
+
+**Summary:**
+
+As global temperatures rise, extreme weather and climate events become increasingly frequent and severe. These events post significant risks to socio-economic systems, impacting economic growth, infrastructure, habitable areas and more, necessitating a deeper understanding of their economic implications. Using the Emergency Events Database (EM-DAT), observational and model climate data, alongisde subnational economic data, we assess the global economic consequences of climate extremes in a granular fashion. 
+
+**Lead Researchers:**
+
+Rhea Gaur and Christian Franzke
+
 ## Changes in Heat Waves
 
 **Summary:**  

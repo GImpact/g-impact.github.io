@@ -3,7 +3,28 @@ layout: page
 title: Projects
 ---
 
-# Our Projects
+<h1>Our Projects</h1>
+
+<div class="projects-grid">
+  <a href="{{ site.baseurl }}/projects/multiyear" class="project-item multiyear">
+    <h3>Multi-Year Predictability</h3>
+  </a>
+
+  <a href="{{ site.baseurl }}/projects/subseasonal" class="project-item subseasonal">
+    <h3>Subseasonal Prediction</h3>
+  </a>
+
+  <a href="{{ site.baseurl }}/projects/futurechanges" class="project-item future">
+    <h3>Future Changes</h3>
+  </a>
+
+  <a href="{{ site.baseurl }}/projects/health" class="project-item health">
+    <h3>Health Impacts</h3>
+  </a>
+</div>
+
+
+<!-- # Our Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; padding: 2rem 0;">
 
@@ -31,4 +52,4 @@ title: Projects
     </div>
   </a>
 
-</div>
+</div> -->
