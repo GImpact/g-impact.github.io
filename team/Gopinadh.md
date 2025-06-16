@@ -4,7 +4,7 @@ title: Gopinadh Konda
 permalink: /team/Gopinadh/
 ---
 
-# Alexia Karwat
+# Gopinadh Konda
 
 <!--- <img src="/images/Gopinadh.jpg" alt="Gopinadh Konda" width="200" /> --->
 <img src="{{ site.baseurl }}/images/Gopinadh.jpg" alt="Gopinadh Konda" width="200" />
