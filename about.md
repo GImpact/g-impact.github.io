@@ -58,6 +58,13 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
     <a class="read-more" href="{{ site.baseurl }}/team/YongYub Kim/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
 
+  <div class="profile-card">
+    <img src="images/Gopinadh.jpg" alt="Gopinadh Konda">
+    <h3>Gopinadh Konda</h3>
+    <p>Postdoctoral Researcher</p>
+    <p>IBS Center for Climate Physics (ICCP), Pusan National University (PNU)</p>
+    <a class="read-more" href="{{ site.baseurl }}/team/Gopinadh/" style="font-size: 0.75rem;">Read more</a>
+</div>
 
 </div><!-- profiles -->
 

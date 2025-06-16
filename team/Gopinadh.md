@@ -12,7 +12,7 @@ permalink: /team/Gopinadh/
 
 
 **Title:** Postdoctoral Researcher  
-**Institution:** Center for Climate Physics, Institute for Basic Science
+**Institution:** IBS Center for Climate Physics (ICCP), Pusan National University (PNU)
 
 ---
 
