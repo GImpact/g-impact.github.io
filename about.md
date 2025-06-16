@@ -49,7 +49,17 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
     <p>Research Center for Climate Sciences (RCCS), Pusan National University (PNU)</p>
     <a class="read-more" href="{{ site.baseurl }}/team/Jeongeun Yun/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
+
+  <div class="profile-card">
+    <img src="images/YYKim.jpg" alt="YongYub Kim">
+    <h3>Yong-Yub Kim</h3>
+    <p>Postdoctoral Fellow</p>
+    <p>IBS Center for Climate Physics (ICCP), Pusan National University (PNU)</p>
+    <a class="read-more" href="{{ site.baseurl }}/team/YongYub Kim/" style="font-size: 0.75rem;">Read more</a>
+  </div><!-- profile-card -->
 </div><!-- profiles -->
+
+
 
 <h2>Students</h2>
 
@@ -60,6 +70,14 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
     <p>PhD Candidate</p>
     <p>IBS Center for Climate Physics and Pusan National University</p>
     <a class="read-more" href="{{ site.baseurl }}/team/rhea-gaur/" style="font-size: 0.75rem;">Read more</a>
+  </div><!-- profile-card -->
+
+  <div class="profile-card">
+    <img src="images/BeomheeJo.jpg" alt="Beomhee Jo">
+    <h3>Beomhee Jo</h3>
+    <p>PhD Candidate</p>
+    <p>IBS Center for Climate Physics and Pusan National University</p>
+    <a class="read-more" href="{{ site.baseurl }}/team/beomhee-jo/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
 
   <div class="profile-card">
@@ -79,12 +97,13 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
   </div><!-- profile-card -->
 
   <div class="profile-card">
-    <img src="images/BeomheeJo.jpg" alt="Beomhee Jo">
-    <h3>Beomhee Jo</h3>
-    <p>PhD Candidate</p>
-    <p>IBS Center for Climate Physics and Pusan National University</p>
-    <a class="read-more" href="{{ site.baseurl }}/team/beomhee-jo/" style="font-size: 0.75rem;">Read more</a>
+    <img src="images/YejinKim.jpg" alt="Yejin Kim">
+    <h3>Yejin Kim</h3>
+    <p>Master's Student</p>
+    <p>Pusan National University</p>
+    <a class="read-more" href="{{ site.baseurl }}/team/yejin-kim/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
+
 </div><!-- profiles -->
 
 <h2> Administrators </h2>
