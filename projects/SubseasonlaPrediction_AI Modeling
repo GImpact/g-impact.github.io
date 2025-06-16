@@ -1,0 +1,19 @@
+
+AI-Based Global KARINA Model Skillfully Simulates Intraseasonal Tropical Variability: MJO, BSISO, and Associated Air-Sea Dynamics
+
+
+
+The advancement of machine learning-based climate models has opened new pathways for improving the prediction and simulation of intraseasonal variability in the tropics.
+In this study, we assess the performance of the AI-based Global KARINA model in representing two critical modes of tropical variability: the Madden-Julian Oscillation (MJO) 
+and the Boreal Summer Intraseasonal Oscillation (BSISO). Results demonstrate that the KARINA model exhibits high skill in capturing the spatial-temporal characteristics, propagation, 
+and amplitude of both MJO and BSISO events, outperforming several conventional general circulation models (GCMs). Particularly, the model accurately replicates the eastward propagation 
+of the MJO and the northwestward propagation of BSISO, consistent with observational datasets such as ERA5. A detailed analysis of the Moist Static Energy (MSE) budget reveals that 
+the KARINA model adeptly balances horizontal advection and vertical moistening processes, which are pivotal for sustaining intraseasonal oscillations. Additionally, the model demonstrates
+realistic air-sea coupling, effectively capturing key feedbacks between skin temperature anomalies and atmospheric convection. Importantly, regional analysis highlights the model's skill
+in representing the sensitivity of atmospheric variables across the Arabian Sea (AS), Bay of Bengal (BoB), Western Indian Ocean (WIO), Eastern Indian Ocean (EIO), and Western North Pacific (WNP).
+In these regions, the KARINA model successfully captures critical interactions among low-level moisture convergence and convective processes, which significantly influence the strength and propagation 
+characteristics of MJO and BSISO events. Moreover, the model exhibits notable predictive skill at higher lead times, maintaining coherent representations of MJO and BSISO phases and amplitudes beyond 
+typical forecast windows, which is crucial for extended-range forecasting applications. Overall, the AI Global KARINA model stands as a promising tool for advancing our understanding of tropical
+intraseasonal variability. Its robust representation of the MSE budget, realistic air-sea interactions, sensitivity depiction across key ocean basins, and strong performance at higher lead times
+provide valuable insights for improving regional climate prediction and guiding future model development efforts.
+
