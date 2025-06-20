@@ -14,7 +14,7 @@ Yang, Y.-M.*, D.-Y. Lee, J.-H. Park, J.-Y. Lee, K.-S. Yun, S.-I. An, T. Li and B
 
 Jinah Park, Ayoung Kim, Ziyad Al-Aly, Kristi Ebi, Ho Kim*, Whanhee Lee*: Heat and hospitalization risks among people with disabilities in South Korea. Nature Communications. 16, 4040. http://doi.org/10.1038/s41467-025-59270-8. 
 
-Wang, M., Huang, Y., Franzke, C.L.E. et al. Evidence for preferred propagating terrestrial heatwave pathways due to Rossby wave activity. Nat Commun 16, 4742 (2025). https://doi.org/10.1038/s41467-025-60104-w
+Wang, M., Huang, Y., <b>Franzke, C.</b> et al. Evidence for preferred propagating terrestrial heatwave pathways due to Rossby wave activity. Nat Commun 16, 4742 (2025). https://doi.org/10.1038/s41467-025-60104-w
 
 Bagaeva, E., <b>Franzke, C.</b>, Danilov, S., Vijay, K., & Juricke, S. (2025). Notes on parameterized energy pathways in the ocean: Insights from stochastic and deterministic kinetic energy injection. Journal of Advances in Modeling Earth Systems, 17, e2024MS004513. https://doi.org/10.1029/2024MS004513
 
