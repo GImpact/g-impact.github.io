@@ -16,7 +16,7 @@ Jinah Park, Ayoung Kim, Ziyad Al-Aly, Kristi Ebi, Ho Kim*, Whanhee Lee*: Heat an
 
 Wang, M., Huang, Y., Franzke, C.L.E. et al. Evidence for preferred propagating terrestrial heatwave pathways due to Rossby wave activity. Nat Commun 16, 4742 (2025). https://doi.org/10.1038/s41467-025-60104-w
 
-Bagaeva, E., Franzke, C. L. E., Danilov, S., Vijay, K., & Juricke, S. (2025). Notes on parameterized energy pathways in the ocean: Insights from stochastic and deterministic kinetic energy injection. Journal of Advances in Modeling Earth Systems, 17, e2024MS004513. https://doi.org/10.1029/2024MS004513
+Bagaeva, E., <b>Franzke, C.</b>, Danilov, S., Vijay, K., & Juricke, S. (2025). Notes on parameterized energy pathways in the ocean: Insights from stochastic and deterministic kinetic energy injection. Journal of Advances in Modeling Earth Systems, 17, e2024MS004513. https://doi.org/10.1029/2024MS004513
 
  <b>Franzke, C.</b>, & Parihar, R. S. (2025). Time of emergence and future projections of extremes of malaria infections in Africa. GeoHealth, 9, e2025GH001356. https://doi.org/10.1029/2025GH001356 
 
