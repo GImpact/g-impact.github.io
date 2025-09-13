@@ -14,7 +14,8 @@ title: About Us
     <img src="images/june-yi.jpg" alt="June-Yi_Lee">
     <h3>June-Yi Lee</h3>
     <p>Professor</p>
-    <p>IBS Center for Climate Physics, Institute for Basic Science and Department of Integrated Climate System Science, Pusan National University</p>
+    <p>IBS Center for Climate Physics, Institute for Basic Science
+    <br>Department of Integrated Climate System Science, Pusan National University</p>
     <a class="read-more" href="{{ site.baseurl }}/team/juneyi-lee/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
 
@@ -23,7 +24,8 @@ title: About Us
     <img src="images/Christian-Franzke.jpg" alt="Christian_Franzke">
     <h3>Christian Franzke</h3>
     <p>Professor</p>
-    <p>IBS Center for Climate Physics, Institute for Basic Science and Department of Integrated Climate System Science, Pusan National University</p>
+    <p>IBS Center for Climate Physics, Institute for Basic Science
+    <br>Department of Integrated Climate System Science, Pusan National University</p>
     <a class="read-more" href="{{ site.baseurl }}/team/christian-franzke/" style="font-size: 0.75rem;">Read more</a>
   </div><!-- profile-card -->
 
