@@ -1,28 +1,46 @@
-/* --- Navbar styles including dropdown --- */
+
+/* --- Navbar styles including logo + dropdown --- */
+/* Navbar container */
 .navbar {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    background: rgba(0, 34, 77, 0.85); /* translucent navy */
-    padding: 1rem;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-  }
-  
-  .navbar a {
-    color: white;
-    text-decoration: none;
-    font-weight: 500;
-    padding: 0.3rem 0.7rem;
-    border-radius: 6px;
-    white-space: nowrap;
-    transition: background 0.2s ease, color 0.2s ease;
-  }
-  
-  .navbar a:hover {
-    background-color: rgba(255, 255, 255, 0.15);
-  }
+  display: flex;
+  align-items: center;          /* vertically center everything */
+  justify-content: center;      /* center the links horizontally */
+  background: rgba(50, 50, 50, 0.5); /* translucent navy */
+  backdrop-filter: blur(6px);
+  padding: 0.5rem 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  gap: 2rem;                    /* space between logo and links */
+}
+
+/* Logo */
+.navbar-logo img {
+  height: 60px;    /* slightly bigger */
+  width: auto;
+  display: block;
+}
+
+/* Links container */
+.nav-links {
+  display: flex;
+  gap: 1.5rem;       /* space between links */
+}
+
+/* Links style */
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.3rem 0.7rem;
+  border-radius: 6px;
+  white-space: nowrap;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.nav-links a:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
 
   /* In style.css */
 
@@ -91,6 +109,51 @@
   .nav-link:hover {
     background-color: rgba(255, 255, 255, 0.15);
   }
+
+  /* Force site header to have dark background */
+  .site-header {
+    background: rgba(0, 34, 77, 0.9); /* navy backdrop */
+    padding: 0.5rem 1rem;
+  }
+  
+  .site-logo img {
+    height: 40px;   /* adjust size as needed */
+    width: auto;
+    vertical-align: middle;
+    margin-right: 1rem;
+  }
+  
+  .site-title {
+    color: white !important;
+    font-weight: 600;
+    margin-right: 2rem;
+  }
+  
+  .site-nav a {
+    color: white !important;
+    font-weight: 500;
+    padding: 0.3rem 0.7rem;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+  }
+  
+  .site-nav a:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+  }
+  
+  /* Home page header behind navbar */
+.page-header {
+  position: relative;      /* ensure it’s positioned relative to the page */
+  margin-top: -70px;       /* pull header up under the navbar (adjust to navbar height) */
+  padding-top: 100px;      /* push content down so text isn’t hidden behind navbar */
+  background-size: cover;  /* for background image */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+  /* --- Profile Cards Grid --- */
+
   
   /* .profiles {
     display: grid;
