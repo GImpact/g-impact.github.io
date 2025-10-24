@@ -20,7 +20,7 @@ Bagaeva, E., <b>Franzke, C.</b>, Danilov, S., Vijay, K., & Juricke, S. (2025). N
 
  <b>Franzke, C.</b>, & Parihar, R. S. (2025). Time of emergence and future projections of extremes of malaria infections in Africa. GeoHealth, 9, e2025GH001356. https://doi.org/10.1029/2025GH001356 
 
-Hallali, L., E. Myrvoll-Nilsen, and <b>C. Franzke<\b>, 2025: Assessing AMOC stability using a Bayesian nested time-dependent autoregressive model, Nonlin. Processes Geophys., 32, 383–395, 2025.
+Hallali, L., E. Myrvoll-Nilsen, and <b>C. Franzke</b>, 2025: Assessing AMOC stability using a Bayesian nested time-dependent autoregressive model, Nonlin. Processes Geophys., 32, 383–395, 2025.
  
-Ravinandrasana, V. and <b>C. Franzke<\b>, 2025: The first emergence of unprecedented global water scarcity in the Anthropocene. Nat Commun 16, 8281
+Ravinandrasana, V. and <b>C. Franzke</b>, 2025: The first emergence of unprecedented global water scarcity in the Anthropocene. Nat Commun 16, 8281
 
